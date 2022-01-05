@@ -1,0 +1,6 @@
+{
+  "type": "apple",
+  "name": "Red Apple",
+  "acceleration": 0.09,
+    "topSpeed":  1.35
+}
