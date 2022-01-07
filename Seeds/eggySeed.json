@@ -1,0 +1,7 @@
+{
+  "type": "seed",
+  "fireDamage": 1,
+  "fireSpeed": 0.4,
+  "fireCooldown": 0.2,
+  "hitboxSize": 0.25
+}

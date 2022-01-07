@@ -13,7 +13,7 @@
   "skyColors": [
     [ "#0C63F3", "#0C63F3" ],
     [ "#58C9FF", "#58C9FF" ],
-    [ "#0B28BC", "#0B28BC" ],
+    [ "#0B28BC47", "#0B28BC47" ],
     [ "#FDFAED", "#FDFAED" ]
   ],
   "maxShips": [
@@ -28,5 +28,17 @@
     [ 1, 0 ],
     [ 3, 2 ],
     [ 2, 1 ]
+  ],
+  "bgSprites": [
+    {
+      "path": "/data/Levels/w1-1_layer1",
+      "speed": -0.35,
+      "layer": -100
+    },
+    {
+      "path": "/data/Levels/w1-1_layer2",
+      "speed": -0.07,
+      "layer": -101
+    }
   ]
 }
