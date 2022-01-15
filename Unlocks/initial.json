@@ -1,0 +1,9 @@
+{
+  "type": "unlock",
+  "parameter": "gamePlays",
+  "requirement": 1,
+  "rewards": [ "data/Player/Skins/Apples/apple4" ],
+  "isAchievement": false,
+  "notifyPlayer": true
+
+}

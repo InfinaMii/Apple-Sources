@@ -31,14 +31,19 @@
   ],
   "bgSprites": [
     {
-      "path": "/data/Levels/w1-1_layer1",
-      "speed": -0.35,
+      "path": "/data/Stage/Levels/w1-1_layer0",
+      "speed": -0.001,
       "layer": -100
     },
     {
-      "path": "/data/Levels/w1-1_layer2",
-      "speed": -0.07,
+      "path": "/data/Stage/Levels/w1-1_layer1",
+      "speed": -0.35,
       "layer": -101
+    },
+    {
+      "path": "/data/Stage/Levels/w1-1_layer2",
+      "speed": -0.07,
+      "layer": -102
     }
   ]
 }
