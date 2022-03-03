@@ -1,5 +1,6 @@
 {
   "type": "level",
+  "id": "base1-1",
   "waveShips": [
     [ 1, 1, 1 ],
     [ 1, 2, 1 ],

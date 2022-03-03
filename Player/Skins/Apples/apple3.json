@@ -1,4 +1,6 @@
 {
   "type": "apple",
-  "name": "Silver Apple"
+  "id": "baseApple3",
+  "name": "Silver Apple",
+  "cloneDefaults": "/data/Player/Skins/Apples/apple0"
 }

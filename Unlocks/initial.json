@@ -2,7 +2,8 @@
   "type": "unlock",
   "parameter": "gamePlays",
   "requirement": 1,
-  "rewards": [ "data/Player/Skins/Apples/apple4" ],
+  "rewards": [ "baseApple4" ],
+  "subtitle":  "Play the game for the first time",
   "isAchievement": false,
   "notifyPlayer": true
 

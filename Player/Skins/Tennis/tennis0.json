@@ -1,0 +1,7 @@
+{
+  "type": "apple",
+  "name": "Green Tennis Ball",
+  "topSpeed": 1.6,
+  "acceleration": 0.12,
+  "totalHealth": 2
+}

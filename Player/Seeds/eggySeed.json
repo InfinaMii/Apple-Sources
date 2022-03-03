@@ -1,8 +1,9 @@
 {
   "type": "seed",
+  "id": "baseSeedEgg",
   "fireDamage": 1,
   "fireSpeed": 0.4,
   "fireCooldown": 0.2,
-  "hitboxSize": 0.25,
-  "ammoBar": "/data/Skins/Custom/bars"
+  "hitboxSize": 6,
+  "ammoBar": "/data/Player/Seeds/eggyBar"
 }
