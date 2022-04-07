@@ -1,6 +1,6 @@
 {
-  "type": "applex",
+  "type": "apple",
   "name": "eggy skin",
   "totalHealth": 2,
-  "ammoType": "/data/Seeds/eggySeed"
+  "ammoType": "eggySeed"
 }

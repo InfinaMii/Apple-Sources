@@ -1,0 +1,24 @@
+{
+  "type": "apple",
+  "id": "apple0",
+  "name": "Apple",
+  "hitboxOffset": [ 0, -2 ],
+  "alts": [
+    {
+      "name": "Apple (red)",
+      "id": "apple0"
+    },
+    {
+      "name": "Apple (green)",
+      "id": "apple1"
+    },
+    {
+      "name": "Apple (golden)",
+      "id": "apple2"
+    },
+    {
+      "name": "Apple (silver)",
+      "id": "apple3"
+    }
+  ]
+}

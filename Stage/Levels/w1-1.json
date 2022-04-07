@@ -1,6 +1,5 @@
 {
   "type": "level",
-  "id": "base1-1",
   "waveShips": [
     [ 1, 1, 1 ],
     [ 1, 2, 1 ],
@@ -32,17 +31,17 @@
   ],
   "bgSprites": [
     {
-      "path": "/data/Stage/Levels/w1-1_layer0",
+      "file": "w1-1_layer0",
       "speed": -0.001,
       "layer": -100
     },
     {
-      "path": "/data/Stage/Levels/w1-1_layer1",
+      "file": "w1-1_layer1",
       "speed": -0.35,
       "layer": -101
     },
     {
-      "path": "/data/Stage/Levels/w1-1_layer2",
+      "file": "w1-1_layer2",
       "speed": -0.07,
       "layer": -102
     }

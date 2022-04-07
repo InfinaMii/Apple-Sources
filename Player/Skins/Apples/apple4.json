@@ -1,6 +1,6 @@
 {
   "type": "applex",
-  "id": "baseApple4",
+  "id": "apple4",
   "name": "Blue Apple",
   "hitboxSize": [ 0, 0.1 ],
   "totalHealth": 4,

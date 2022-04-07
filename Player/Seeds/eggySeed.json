@@ -5,5 +5,5 @@
   "fireSpeed": 0.4,
   "fireCooldown": 0.2,
   "hitboxSize": 6,
-  "ammoBar": "/data/Player/Seeds/eggyBar"
+  "ammoBar": "eggyBar2"
 }

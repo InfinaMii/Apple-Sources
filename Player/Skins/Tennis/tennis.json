@@ -1,0 +1,21 @@
+{
+  "type": "apple",
+  "name": "Tennis Ball",
+  "topSpeed": 1.6,
+  "acceleration": 0.12,
+  "totalHealth": 2,
+  "alts": [
+    {
+      "name": "Tennis Ball (green)",
+      "id": "tennis0"
+    },
+    {
+      "name": "Tennis Ball (yellow)",
+      "id": "tennis1"
+    },
+    {
+      "name": "Tennis Ball (pink)",
+      "id": "tennis2"
+    }
+  ]
+}

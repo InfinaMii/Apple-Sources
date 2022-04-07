@@ -1,0 +1,7 @@
+{
+  "type": "wings",
+  "frames": 4,
+  "staticFrameTime": 0.05,
+  "frameTime": [ 0.1518, 0.1012 ],
+  "frameTimeDown": [ 0.05, 0 ]
+}
