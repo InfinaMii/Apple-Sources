@@ -1,23 +1,23 @@
 {
   "type": "apple",
   "id": "apple0",
-  "name": "Apple",
+  "name": "Skin.Apple",
   "hitboxOffset": [ 0, -2 ],
   "alts": [
     {
-      "name": "Apple (red)",
+      "name": "Skin.Apple| |Skin.suffixRed",
       "id": "apple0"
     },
     {
-      "name": "Apple (green)",
+      "name": "Skin.Apple| |Skin.suffixGreen",
       "id": "apple1"
     },
     {
-      "name": "Apple (golden)",
+      "name": "Skin.Apple| |Skin.suffixGold",
       "id": "apple2"
     },
     {
-      "name": "Apple (silver)",
+      "name": "Skin.Apple| |Skin.suffixSilver",
       "id": "apple3"
     }
   ]

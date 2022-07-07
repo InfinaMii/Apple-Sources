@@ -1,0 +1,46 @@
+{
+  "type": "apple",
+  "name": "Skin.pool",
+  "topSpeed": 1.55,
+  "acceleration": 0.045,
+  "totalHealth": 5,
+  "alts": [
+    {
+      "name": "Skin.pool| |Skin.suffixBlue",
+      "id": "pool2"
+    },
+    {
+      "name": "Skin.pool| |Skin.suffixRed",
+      "id": "pool3"
+    },
+    {
+      "name": "Skin.pool| |Skin.suffixPurple",
+      "id": "pool4"
+    },
+    {
+      "name": "Skin.pool| |Skin.suffixOrange",
+      "id": "pool5"
+    },
+    {
+      "name": "Skin.pool| |Skin.suffixGreen",
+      "id": "pool6"
+    },
+    {
+      "name": "Skin.pool| |Skin.suffixBrown",
+      "id": "pool7"
+    },
+    {
+      "name": "Skin.pool| |Skin.suffixBlack",
+      "id": "pool8"
+    },
+    {
+      "name": "Skin.pool| |Skin.suffixWhite",
+      "id": "pool0",
+      "unlocked":  "false"
+    },
+    {
+      "name": "Skin.pool| |Skin.suffixYellow",
+      "id": "pool1"
+    }
+  ]
+}

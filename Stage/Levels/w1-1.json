@@ -11,8 +11,8 @@
     [ 20, 1.7 ]
   ],
   "skyColors": [
-    [ "#0C63F3", "#0C63F3" ],
-    [ "#58C9FF", "#58C9FF" ],
+    [ "#0e77ff", "#0e77ff" ],
+    [ "#66d4ff", "#66d4ff" ],
     [ "#0B28BC47", "#0B28BC47" ],
     [ "#FDFAED", "#FDFAED" ]
   ],
@@ -33,7 +33,7 @@
     {
       "file": "w1-1_layer0",
       "speed": -0.001,
-      "layer": -100
+      "layer": -104
     },
     {
       "file": "w1-1_layer1",
@@ -43,7 +43,8 @@
     {
       "file": "w1-1_layer2",
       "speed": -0.07,
-      "layer": -102
+      "layer": -103
     }
-  ]
+  ],
+  //"gradientType": "Custom"
 }

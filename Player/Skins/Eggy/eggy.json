@@ -1,0 +1,20 @@
+{
+  "type": "apple",
+  "name": "Skin.eggy",
+  "totalHealth": 2,
+  "ammoType": "eggySeed",
+  "alts": [
+    {
+      "name": "Skin.Eggy",
+      "id": "eggy0"
+    },
+    {
+      "name": "Skin.Eggy| |Skin.suffixEaster",
+      "id": "eggy1"
+    },
+    {
+      "name": "Skin.Eggy| |Skin.suffixChoc",
+      "id": "eggy2"
+    }
+  ]
+}

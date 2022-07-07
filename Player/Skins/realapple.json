@@ -1,0 +1,9 @@
+{
+  "type": "apple",
+  "name": "Skin.Real",
+  "hitboxSize": 18,
+  "totalHealth": 1,
+  "wingSprite": "base.empty",
+  "acceleration": 0.12,
+  "topSpeed": 0.9
+}

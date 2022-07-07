@@ -1,7 +1,33 @@
 {
   "type": "lang",
   "lines": [
+    [ "Level.wave1", "Wave One" ],
+    [ "Level.wave2", "Wave Two" ],
+    [ "Level.wave3", "Wave Three" ],
+    [ "Level.wave4", "Wave Four" ],
+    [ "Level.wave5", "Wave Five" ],
+    [ "Level.wave5", "Wave Six" ],
+    [ "Skin.apple", "Apple" ],
+    [ "Skin.tennis", "Tennis" ],
+    [ "Skin.eggy", "Eggy" ],
+    [ "Skin.suffixRed", "(Red)" ],
+    [ "Skin.suffixGreen", "(Green)" ],
+    [ "Skin.suffixGold", "(Golden)" ],
+    [ "Skin.suffixSilver", "(Silver)" ],
+    [ "Skin.suffixYellow", "(Yellow)" ],
+    [ "Skin.suffixPink", "(Pink)" ],
+    [ "Skin.suffixEaster", "(Easter)" ],
+    [ "Skin.suffixChoc", "(Chocolate)" ],
+    [ "Skin.suffixOrange", "(Oramge)" ],
+    [ "Skin.suffixYellow", "(Yellow)" ],
+    [ "Skin.suffixBlue", "(Blue)" ],
+    [ "Skin.suffixPurple", "(Purple)" ],
+    [ "Skin.suffixBlack", "(Black)" ],
+    [ "Skin.suffixBrown", "(Brown)" ],
+    [ "Skin.suffixWhite", "(White)" ],
+    [ "Skin.pool", "Pool Ball" ],
+
     [ "UI.testLang", "This is sample text, hope it's working!" ],
-    [ "UI.testLang2", "This is also a sample, please disregard it." ]
+    [ "UI.testLang2", "This is also a sample, please disregard it. Though another text, '|UI.testLang3|', is pretty cool as well." ]
   ]
 }
