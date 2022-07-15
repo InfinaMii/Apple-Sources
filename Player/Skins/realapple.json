@@ -1,6 +1,6 @@
 {
   "type": "apple",
-  "name": "Skin.Real",
+  "name": "Skin.real",
   "hitboxSize": 18,
   "totalHealth": 1,
   "wingSprite": "base.empty",

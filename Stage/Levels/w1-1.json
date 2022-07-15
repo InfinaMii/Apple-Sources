@@ -11,10 +11,10 @@
     [ 20, 1.7 ]
   ],
   "skyColors": [
-    [ "#0e77ff", "#0e77ff" ],
-    [ "#66d4ff", "#66d4ff" ],
-    [ "#0B28BC47", "#0B28BC47" ],
-    [ "#FDFAED", "#FDFAED" ]
+    [ "#0e77ff", "#2845B7" ],
+    [ "#66d4ff", "#F1642C" ],
+    [ "#0B28BC47", "#2700B047" ],
+    [ "#FDFAED", "#FFE0DF" ]
   ],
   "maxShips": [
     [ 3, 3, 3 ],
@@ -46,5 +46,5 @@
       "layer": -103
     }
   ],
-  //"gradientType": "Custom"
+  "gradientType": "grNone"
 }

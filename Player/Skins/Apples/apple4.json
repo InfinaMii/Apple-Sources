@@ -4,5 +4,6 @@
   "name": "Blue Apple",
   "hitboxSize": [ 0, 0.1 ],
   "totalHealth": 4,
-  "startingHealth": 3
+  "startingHealth": 3,
+  "unlocked": false
 }
