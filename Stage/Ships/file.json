@@ -1,0 +1,12 @@
+{
+  "type": "ship",
+  "totalHealth": 2,
+  "waitTime": 2.7,
+  "maxOnScreen": 3,
+  "speed": 22.0,
+  "speedMultiplier": 0.0,
+  "hitboxSize": [ 17.0, 13.0 ],
+  "deathPoints": 1,
+  "hurtPoints": 0,
+  "maxHeights": [ -80, 80 ]
+}
