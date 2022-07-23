@@ -1,0 +1,11 @@
+{
+  "type": "ammo",
+  "damage": 5,
+  "hitboxSize": 25,
+  "frames": 1,
+  "destroyAfter": 0.2,
+  "speed": 0,
+  "cooldown": 0.35,
+  "persistent": true,
+  "followMode": 2
+}

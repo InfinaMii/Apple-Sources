@@ -1,9 +1,9 @@
 {
-  "type": "seed",
+  "type": "ammo",
   "id": "baseSeedEgg",
-  "fireDamage": 1,
-  "fireSpeed": 0.4,
-  "fireCooldown": 0.2,
+  "damage": 1,
+  "speed": 40,
+  "cooldown": 0.2,
   "hitboxSize": 6,
   "ammoBar": "eggyBar2"
 }

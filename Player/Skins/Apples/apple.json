@@ -3,6 +3,7 @@
   "id": "apple0",
   "name": "Skin.Apple",
   "hitboxOffset": [ 0, -2 ],
+  "ammoOffset": [ 12, -7 ],
   "alts": [
     {
       "name": "Skin.Apple| |Skin.suffixRed",

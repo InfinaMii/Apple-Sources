@@ -1,14 +1,37 @@
 {
-  "type": "level",
+  "name": "Level 1 - Morning Dew",
   "waveShips": [
-    [ 1, 1, 1 ],
-    [ 1, 2, 1 ],
-    [ 1, 1, 2, 2 ]
+    {
+      "file": "base.ship0",
+      "chances": [ 1, 1, 1 ]
+    },
+    {
+      "file": "base.ship1",
+      "chances": [ 0, 2, 1 ]
+    }
   ],
-  "waveCompletion": [
-    [ 10, 1.2 ],
-    [ 15, 1.5 ],
-    [ 20, 1.7 ]
+  "waves": [
+    {
+      "endTime": 72,
+      "endPoints": 10,
+      "bannerShips": [ "base.ship0", "base.ship0", "base.ship0" ],
+      "maxOnScreen": 3,
+      "speedScale": 0.8
+    },
+    {
+      "endTime": 90,
+      "endPoints": 15,
+      "bannerShips": [ "base.ship0", "base.ship1", "base.ship0" ],
+      "maxOnScreen": 4,
+      "speedScale": 0.95
+    },
+    {
+      "endTime": 102,
+      "endPoints": 20,
+      "bannerShips": [ "base.ship0", "base.ship0", "base.ship1", "base.ship1" ],
+      "maxOnScreen": 5,
+      "speedScale": 1.1
+    }
   ],
   "skyColors": [
     [ "#0e77ff", "#2845B7" ],
@@ -16,24 +39,18 @@
     [ "#0B28BC47", "#2700B047" ],
     [ "#FDFAED", "#FFE0DF" ]
   ],
-  "maxShips": [
-    [ 3, 3, 3 ],
-    [ 0, 1, 2 ]
-  ],
-  "shipsWait": [
-    [ 3.2, 2.9, 2.6 ],
-    [ 0.0, 2.0, 2.0 ]
-  ],
-  "shipsChance": [
-    [ 1, 0 ],
-    [ 3, 2 ],
-    [ 2, 1 ]
-  ],
   "bgSprites": [
     {
-      "file": "w1-1_layer0",
+      "file": "w1-1_layerS1",
       "speed": -0.001,
-      "layer": -104
+      "layer": -104,
+      "anchorMode":  1
+    },
+    {
+      "file": "w1-1_layerS2",
+      "speed": -0.00125,
+      "layer": -105,
+      "anchorMode": 1
     },
     {
       "file": "w1-1_layer1",
@@ -45,6 +62,5 @@
       "speed": -0.07,
       "layer": -103
     }
-  ],
-  "gradientType": "grNone"
+  ]
 }

@@ -3,6 +3,7 @@
   "name": "Skin.eggy",
   "totalHealth": 2,
   "ammoType": "eggySeed",
+  "ammoOffset": [13, -5],
   "alts": [
     {
       "name": "Skin.Eggy",

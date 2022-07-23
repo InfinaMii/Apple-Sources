@@ -1,9 +1,10 @@
 {
   "type": "apple",
   "name": "Skin.pool",
+  "totalHealth": 5,
   "topSpeed": 1.55,
   "acceleration": 0.045,
-  "totalHealth": 5,
+  "ammoOffset": [ 7, -5 ],
   "alts": [
     {
       "name": "Skin.pool| |Skin.suffixBlue",
@@ -36,7 +37,7 @@
     {
       "name": "Skin.pool| |Skin.suffixWhite",
       "id": "pool0",
-      "unlocked":  "false"
+      "unlocked": "false"
     },
     {
       "name": "Skin.pool| |Skin.suffixYellow",

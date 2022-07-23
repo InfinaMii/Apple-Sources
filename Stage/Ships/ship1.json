@@ -1,7 +1,7 @@
 {
   "type": "ship",
   "totalHealth": 4,
-  "waitTime": 2,
+  "waitTime": 2.4,
   "maxOnScreen": 2,
-  "speed": 18
+  "speed": 20
 }
