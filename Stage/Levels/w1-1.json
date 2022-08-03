@@ -1,5 +1,5 @@
 {
-  "name": "Level 1 - Morning Dew",
+  "name": "Level.w1-1",
   "waveShips": [
     {
       "file": "base.ship0",
@@ -44,7 +44,7 @@
       "file": "w1-1_layerS1",
       "speed": -0.001,
       "layer": -104,
-      "anchorMode":  1
+      "anchorMode": 1
     },
     {
       "file": "w1-1_layerS2",

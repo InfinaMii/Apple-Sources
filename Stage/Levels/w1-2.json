@@ -1,14 +1,41 @@
 {
-  "type": "level",
+  "name": "Level.w1-2",
   "waveShips": [
-    [ 1, 2, 1 ],
-    [ 1, 3, 1 ],
-    [ 1, 2, 3 ]
+    {
+      "file": "base.ship0",
+      "chances": [ 2, 1, 2 ]
+    },
+    {
+      "file": "base.ship1",
+      "chances": [ 1, 0, 1 ]
+    },
+    {
+      "file": "base.ship2",
+      "chances": [ 0, 1, 2 ]
+    }
   ],
-  "waveCompletion": [
-    [ 10, 1.2 ],
-    [ 15, 1.5 ],
-    [ 25, 1.7 ]
+  "waves": [
+    {
+      "endTime": 72,
+      "endPoints": 10,
+      "bannerShips": [ "base.ship0", "base.ship1", "base.ship0" ],
+      "maxOnScreen": 3,
+      "speedScale": 0.9
+    },
+    {
+      "endTime": 90,
+      "endPoints": 17,
+      "bannerShips": [ "base.ship0", "base.ship2", "base.ship0" ],
+      "maxOnScreen": 4,
+      "speedScale": 1
+    },
+    {
+      "endTime": 102,
+      "endPoints": 25,
+      "bannerShips": [ "base.ship0", "base.ship1", "base.ship2" ],
+      "maxOnScreen": 5,
+      "speedScale": 1.1
+    }
   ],
   "skyColors": [
     [ "#022091", "#01073F" ],
@@ -16,26 +43,12 @@
     [ "#00055757", "#00055757" ],
     [ "#BFD1FF", "#A1A9CF" ]
   ],
-  "maxShips": [
-    [ 3, 3, 3 ],
-    [ 1, 0, 1 ],
-    [ 0, 1, 2 ]
-  ],
-  "shipsWait": [
-    [ 3.0, 3.0, 2.7 ],
-    [ 2.0, 0.0, 2.0 ],
-    [ 0.0, 2.5, 2.2 ]
-  ],
-  "shipsChance": [
-    [ 2, 1, 0 ],
-    [ 3, 0, 2 ],
-    [ 1, 1, 1 ]
-  ],
   "bgSprites": [
     {
       "file": "w1-2_layer0",
       "speed": 0,
-      "layer": -100
+      "layer": -100,
+      "anchorMode": 1
     },
     {
       "file": "w1-1_layer1",

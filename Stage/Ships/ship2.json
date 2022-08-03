@@ -1,0 +1,9 @@
+{
+  "type": "ship",
+  "totalHealth": 1,
+  "waitTime": 2,
+  "maxOnScreen": 2,
+  "speed": 30,
+  "ammoType": "base.defMissile",
+  "fireAt": 40
+}
