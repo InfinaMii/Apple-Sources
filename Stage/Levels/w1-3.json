@@ -1,38 +1,31 @@
 {
-  "name": "Level.w1-2",
+  "name": "Level.w1-3",
   "waveShips": [
     {
-      "file": "base.ship0",
-      "chances": [ 2, 1, 2 ]
+      "file": "base.rocket0",
+      "chances": [ 3, 2 ]
     },
     {
-      "file": "base.ship1",
-      "chances": [ 1, 0, 1 ]
+      "file": "base.rocket1",
+      "chances": [ 1, 1 ]
     },
     {
-      "file": "base.ship2",
-      "chances": [ 0, 1, 2 ]
+      "file": "base.rocket0_timer",
+      "chances": [ 0, 1 ]
     }
   ],
   "waves": [
     {
       "endTime": 72,
       "endPoints": 10,
-      "bannerShips": [ "base.ship0", "base.ship1", "base.ship0" ],
-      "maxOnScreen": 3,
-      "speedScale": 0.9
-    },
-    {
-      "endTime": 90,
-      "endPoints": 17,
-      "bannerShips": [ "base.ship0", "base.ship2", "base.ship0" ],
-      "maxOnScreen": 4,
+      "bannerShips": [ "base.rocket0", "base.rocket1" ],
+      "maxOnScreen": 5,
       "speedScale": 1
     },
     {
-      "endTime": 102,
-      "endPoints": 25,
-      "bannerShips": [ "base.ship0", "base.ship1", "base.ship2" ],
+      "endTime": 72,
+      "endPoints": 10,
+      "bannerShips": [ "base.rocket0", "base.rocket1", "base.rocket0_timer" ],
       "maxOnScreen": 5,
       "speedScale": 1.1
     }
@@ -45,7 +38,7 @@
   ],
   "bgSprites": [
     {
-      "file": "w1-2_layer0",
+      "file": "w1-1_layerS2",
       "speed": 0,
       "layer": -100,
       "anchorMode": 1

@@ -3,7 +3,7 @@
   "name": "Skin.pool",
   "totalHealth": 5,
   "topSpeed": 1.55,
-  "acceleration": 0.045,
+  "acceleration": 0.6,
   "ammoOffset": [ 7, -5 ],
   "alts": [
     {

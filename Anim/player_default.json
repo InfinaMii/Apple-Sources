@@ -1,0 +1,36 @@
+{
+  "type": "animation",
+  "switchMode": 1,
+  "animData": [
+    {
+      "animName": "idleStatic",
+      "animation": [
+        {
+          "duration": 0.001,
+          "position": 0
+        }
+      ]
+    },
+    {
+      "animName": "fireStatic",
+      "animation": [
+        {
+          "duration": 0.05,
+          "position": 1
+        },
+        {
+          "duration": 0.05,
+          "position": 2
+        },
+        {
+          "duration": 0.1,
+          "position": 3
+        },
+        {
+          "duration": 0.025,
+          "position": 1
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "type": "ship",
+  "totalHealth": 1,
+  "waitTime": 1.4,
+  "speed": 20.0,
+  "speedIncrease": 320.0,
+  "hitboxSize": [ 0, 0 ],
+  "deathPoints": 0,
+  "ammoType": "base.defMissile",
+  "fireAt": 285
+}
